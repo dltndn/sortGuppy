@@ -7,8 +7,4 @@ function paintImage() {
   body.appendChild(image);
 }
 
-function init() {
-  paintImage();
-}
-
-init();
+paintImage();
